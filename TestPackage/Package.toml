@@ -1,4 +1,4 @@
 name = "TestPackage"
 uuid = "28cd688e-7cf2-11e8-01a0-0dc1d6450aeb"
 author = "<your name here>"
-repo = "https://github.com/<user>/TestPackage.jl.git"
+repo = "https://github.com/abillscmu/TestPackage.jl.git"
